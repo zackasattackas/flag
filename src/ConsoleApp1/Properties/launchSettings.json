@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "--ipaddress 192.168.0.0 --max-date 7/26/1993"
+    }
+  }
+}
